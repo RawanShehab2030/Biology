@@ -1,4 +1,0 @@
-# Biology
-#Plant
-#LikeProtists
-#Algae
